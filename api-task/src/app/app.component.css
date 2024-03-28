@@ -1,0 +1,31 @@
+.table{
+    text-align: center;
+    margin-top: 10px;
+    width: 80%;
+    margin: auto;
+}
+th,td{
+    border:1px solid aqua;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: black;
+}
+th{
+    background-color: aqua;
+}
+th:hover{
+    background-color: grey;
+    color: white;
+}
+td:hover{
+    background-color: grey;
+    color: white;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.534);
+    width: 100%;
+    height: auto;
+}
